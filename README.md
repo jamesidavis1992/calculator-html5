@@ -7,5 +7,5 @@ Tested on Firefox, IE11, Edge, Chrome and Safari.
 
 For a Live demo click [here](https://vbazurtob.github.io/responsive-mortgage-calculator/mortgage-calculator.html) .
 
-Author: Voltaire Bazurto Blacio
+Author: James Davis
 All rights reserved 2018
